@@ -45,3 +45,6 @@ Text color black
 
 Copyright
 Text color #bbbbbb
+
+## Design
+![Woodside Wheel](design.png)
