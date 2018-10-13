@@ -9,7 +9,9 @@ Convert the design into HTML in the `index.html` file, and then write the CSS in
 We'll provide some style information below. Approximate or use a [Ruler application](http://www.pascal.com/software/freeruler/) to get the sizing values for various elements.
 
 CSS Property Almanac: https://css-tricks.com/almanac/
+
 The Box Model: https://css-tricks.com/the-css-box-model/
+
 HTML Elements Reference: https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 
 ## Provided style information
