@@ -1,4 +1,4 @@
-# CSS Box Model Lab
+# HTML / CSS Lab
 
 In this lab you will practice converting a design into HTML and CSS, with a focus on box model properties.
 
@@ -11,31 +11,31 @@ We'll provide some style information below. Approximate or use a [Ruler applicat
 ## Provided style information
 
 High-level text properties:
-    "Lato" font
-    1.5 line-height
+"Lato" font
+1.5 line-height
 
-The main content:
-    720px wide
-    54px of padding
-    border should be solid on the left and 6px wide with a color of #dd0000
+The main content (body):
+max-width 720px
+54px of padding
+border should be solid on the left and 6px wide with a color of #e2231a
 
 Links:
-    Text color #DD0000
+Text color #e2231a
 
 Links hover:
-    Text color #aa0000
+Text color #aa0000
 
 Navigation links:
-    Text color #dddddd
+Text color #dddddd
 
 Navigation links hover:
-    Text color black
+Text color black
 
-Date: 
-    Text color #cccccc
+Date:
+Text color #cccccc
 
 Article Title
-    Text color black
+Text color black
 
 Copyright
-    Text color #bbbbbb
+Text color #bbbbbb
