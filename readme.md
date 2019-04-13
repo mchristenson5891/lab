@@ -28,6 +28,9 @@ border should be solid on the left and 6px wide with a color of #e2231a
 Links:
 Text color #e2231a
 
+Headings: 
+font-weight: 100
+
 Links hover:
 Text color #aa0000
 
