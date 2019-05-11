@@ -25,20 +25,14 @@ max-width 720px
 54px of padding
 border should be solid on the left and 6px wide with a color of #e2231a
 
-Links:
+Links (and other red colored text)
 Text color #e2231a
 
 Headings: 
 font-weight: 100
 
-Links hover:
-Text color #aa0000
-
 Navigation links:
 Text color #dddddd
-
-Navigation links hover:
-Text color black
 
 Date:
 Text color #cccccc
@@ -48,6 +42,13 @@ Text color black
 
 Copyright
 Text color #bbbbbb
+
+Bonus: look up how to do element hover styles;
+Links hover:
+Text color #aa0000
+
+Navigation links hover:
+Text color black
 
 ## Design
 ![Woodside Wheel](design.png)
