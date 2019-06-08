@@ -16,39 +16,44 @@ HTML Elements Reference: https://developer.mozilla.org/en-US/docs/Web/HTML/Eleme
 
 ## Provided style information
 
-High-level text properties:
-"Lato" font
-1.5 line-height
+#### I have already set these styles on 'body' to get the page started:
+  High-level text properties
+  "Lato" font
+  1.5 line-height
 
-The main content (body):
-max-width 720px
-54px of padding
-border should be solid on the left and 6px wide with a color of #e2231a
+  The main content (I have already set on 'body' to get the page started):
+  max-width 720px
+  54px of padding
+  border should be solid on the left and 6px wide with a color of #e2231a
 
-Links (and other red colored text)
-Text color #e2231a
+#### YOU DO:
 
-Headings: 
-font-weight: 100
+  Links (and other red colored text)
+  Text color #e2231a
 
-Navigation links:
-Text color #dddddd
+  Headings:
+  font-weight: 100
 
-Date:
-Text color #cccccc
+  Upper Navigation links:
+  Text color #dddddd
 
-Article Title
-Text color black
+  Date:
+  Text color #cccccc
 
-Copyright
-Text color #bbbbbb
+  Article Title
+  Text color black
 
-Bonus: look up how to do element hover styles;
-Links hover:
-Text color #aa0000
+  Copyright
+  Text color #bbbbbb
 
-Navigation links hover:
-Text color black
+  Bonus: look up how to do element hover styles;
+  Links hover:
+  Text color #aa0000
+
+  Upper Navigation links hover:
+  Text color black
+
+  HINT: you can make the images fit nicely inside their parent elements by setting width: 100%
 
 ## Design
 ![Woodside Wheel](design.png)
