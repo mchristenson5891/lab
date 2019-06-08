@@ -6,7 +6,11 @@ The design is included in `design.png`.
 
 Convert the design into HTML in the `index.html` file, and then write the CSS in `main.css`.
 
-We'll provide some style information below. Approximate or use a [Ruler application](http://www.pascal.com/software/freeruler/) to get the sizing values for various elements.
+We'll provide some style information below. You can approximate spacing.
+
+Content for the page can be found in copy.txt.
+
+Links do not need to go anywhere.
 
 CSS Property Almanac: https://css-tricks.com/almanac/
 
@@ -53,7 +57,9 @@ HTML Elements Reference: https://developer.mozilla.org/en-US/docs/Web/HTML/Eleme
   Upper Navigation links hover:
   Text color black
 
-  HINT: you can make the images fit nicely inside their parent elements by setting width: 100%
+  HINT: you can make the images fit nicely inside their parent elements by setting `width: 100%`
+
+  HINT 2: to right align "continues" it may be easiest for now to make that element a heading and use `text-align: right`
 
 ## Design
 ![Woodside Wheel](design.png)
