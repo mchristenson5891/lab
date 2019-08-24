@@ -44,9 +44,6 @@ HTML Elements Reference: https://developer.mozilla.org/en-US/docs/Web/HTML/Eleme
   Article Title
   Text color black
 
-  Upper Navigation links hover:
-  Text color black
-
   HINT: you can make the images fit nicely inside their parent elements by setting `width: 100%`
 
   HINT 2: to right align "continues" it may be easiest for now to make that element a heading and use `text-align: right`
