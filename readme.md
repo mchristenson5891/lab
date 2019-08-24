@@ -38,21 +38,11 @@ HTML Elements Reference: https://developer.mozilla.org/en-US/docs/Web/HTML/Eleme
   Headings:
   font-weight: 100
 
-  Upper Navigation links:
-  Text color #dddddd
-
   Date:
   Text color #cccccc
 
   Article Title
   Text color black
-
-  Copyright
-  Text color #bbbbbb
-
-  Bonus: look up how to do element hover styles;
-  Links hover:
-  Text color #aa0000
 
   Upper Navigation links hover:
   Text color black
@@ -60,6 +50,10 @@ HTML Elements Reference: https://developer.mozilla.org/en-US/docs/Web/HTML/Eleme
   HINT: you can make the images fit nicely inside their parent elements by setting `width: 100%`
 
   HINT 2: to right align "continues" it may be easiest for now to make that element a heading and use `text-align: right`
+
+  Bonus: look up how to do element hover styles;
+  Links hover:
+  Text color #aa0000
 
 ## Design
 ![Woodside Wheel](design.png)
