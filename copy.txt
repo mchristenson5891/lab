@@ -3,6 +3,8 @@ HEADER
 Woodside Wheel
 Electrify Your Bike
 
+NAV
+======================
 Wheel Specs
 Shop Now
 Accessories
@@ -25,8 +27,10 @@ Selfies sunt Tumblr, delectus small batch DIY umami sint. Polaroid chambray self
 
 Continues...
 
+NAV
+======================
+Home | Wheel Specs | Shop Now | Accessories | Community | Support
+
 FOOTER
 ======================
-Home | Wheel Specs | Shop Now | Accessories | Community | Support 
-
-© 2018 Valet Industries, Inc.
+© 2020 Valet Industries, Inc.
